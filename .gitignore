@@ -98,6 +98,6 @@ celerybeat-schedule
 # mypy
 .mypy_cache/
 
-.vscode
+.vscode/
 *.code-workspace
 .ipfs*
