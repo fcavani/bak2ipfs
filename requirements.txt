@@ -1,2 +1,3 @@
 ipfshttpclient @ git+https://github.com/ipfs-shipyard/py-ipfs-http-client@f80b3d31892bd9c6ff33b7530f6be9272d311b60
 pycryptodome
+regex
