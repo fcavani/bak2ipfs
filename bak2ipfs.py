@@ -539,7 +539,7 @@ def ask_password(check: bool = False) -> str:
 
 if __name__ == "__main__":
     # TODO: stat?
-    # BUG: não faz backup de diretório vazio.
+    # BUG: don't backup empty directory.
 
     parser = argparse.ArgumentParser(
         prog="bak2ipfs",
